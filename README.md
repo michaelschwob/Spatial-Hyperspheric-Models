@@ -1,6 +1,8 @@
 # Spatial-Hyperspheric-Models
 Code and Data for Schwob, Hooten, Calzada, Keitt, "Spatial Hyperspheric Models for Compositional Data," in review.
 
+Code in `Bird_Calls` was developed by [Nicholas Calzada](https://github.com/nick-calzada/Bird_Calls).
+
 ## Directory Structure
 
 ```txt
